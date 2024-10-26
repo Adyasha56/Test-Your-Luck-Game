@@ -1,4 +1,4 @@
-#  Test Your Luck
+# Test Your Luck
 
 A quick and fun lottery game built with React! Generate random tickets and test your luck—if the sum of the numbers is 15, you win! The app also features an animated heading to add a bit of flair.
 
